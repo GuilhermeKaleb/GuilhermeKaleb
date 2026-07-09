@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: .github/workflows/snake.yml
 
 on:
   # Runs automatically every 12 hours
