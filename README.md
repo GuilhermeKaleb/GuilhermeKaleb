@@ -41,46 +41,52 @@ Right now I'm focused on **software architecture, AI engineering, distributed sy
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
 
-#### Languages
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=E50914)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-#### Frontend
+**Full Stack**
+
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Fastify](https://img.shields.io/badge/Fastify-0A0A0A?style=for-the-badge&logo=fastify&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E50914)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Prisma](https://img.shields.io/badge/Prisma-0A0A0A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-#### Database
+**Data & Infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-#### AI Engineering
+**AI Engineering**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI_APIs-0A0A0A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![Claude](https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=E50914)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=for-the-badge&logo=openai&logoColor=E50914)
 ![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=databricks&logoColor=E50914)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-0A0A0A?style=for-the-badge&logo=probot&logoColor=E50914)
 
-#### Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
@@ -152,16 +158,7 @@ Links will be added here as they go public.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKaleb&show_icons=true&count_private=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=F5F5F5&bg_color=0D0D0D" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeKaleb&layout=compact&hide_border=true&title_color=E50914&text_color=F5F5F5&bg_color=0D0D0D" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=GuilhermeKaleb&hide_border=true&background=0D0D0D&stroke=E50914&ring=E50914&fire=B00020&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=888888&currStreakNum=F5F5F5&sideNums=F5F5F5" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuilhermeKaleb&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -171,7 +168,7 @@ Links will be added here as they go public.
 
 <div align="center">
 
-<!-- SNAKE: generated by GitHub Action, see setup below -->
+<!-- SNAKE: gerada pelo GitHub Action -->
 <img src="https://raw.githubusercontent.com/GuilhermeKaleb/GuilhermeKaleb/output/snake.svg" alt="snake animation" />
 
 <br/>
