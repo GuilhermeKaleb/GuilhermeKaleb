@@ -154,26 +154,12 @@ Links will be added here as they go public.
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GuilhermeKaleb&hide_border=true&background=0D0D0D&stroke=E50914&ring=E50914&fire=B00020&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=888888&currStreakNum=F5F5F5&sideNums=F5F5F5" />
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;Contribution Graph
 
 <div align="center">
 
 <!-- SNAKE: gerada pelo GitHub Action -->
 <img src="https://raw.githubusercontent.com/GuilhermeKaleb/GuilhermeKaleb/output/snake.svg" alt="snake animation" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeKaleb&bg_color=0D0D0D&color=F5F5F5&line=E50914&point=B00020&area=true&hide_border=true" width="100%" />
 
 </div>
 
